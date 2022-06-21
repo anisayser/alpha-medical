@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Covid-19",
+      "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the c1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "img": "https://i.ibb.co/TLkPV5R/service1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Full Stathoscope",
+      "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the c1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "img": "https://i.ibb.co/ZMY6599/service2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Heart Specialist",
+      "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the c1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "img": "https://i.ibb.co/vJ4CJhs/service3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Blood Bank",
+      "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the c1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "img": "https://i.ibb.co/18xJnJV/service4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "For Disable",
+      "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the c1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "img": "https://i.ibb.co/FqgbNYn/service5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Psychiatrist",
+      "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the c1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "img": "https://i.ibb.co/xsqS1qP/service6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Dental",
+      "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the c1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "img": "https://i.ibb.co/PtZWbC7/service7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ambulances",
+      "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the c1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "img": "https://i.ibb.co/YW5kxhq/service8.jpg"
+    }
+  ]

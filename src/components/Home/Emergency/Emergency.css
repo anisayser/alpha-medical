@@ -1,0 +1,15 @@
+.emergency{
+    background-image: url('../../../images/service-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.em-contained{
+    
+}
+.emergency-content{
+    background-image: url('../../../images/sb-service.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}

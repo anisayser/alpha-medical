@@ -1,0 +1,17 @@
+/* .img-box{
+    overflow: hidden;
+} */
+.img-box .overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    z-index: 0;
+    opacity: 0.5;
+    transition: all .5s ease;
+    transform: scale(0);
+}
+
+.blog:hover .img-box > .overlay{
+    transform: scale(1);
+}

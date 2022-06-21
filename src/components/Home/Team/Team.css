@@ -1,0 +1,19 @@
+.team:hover{
+    background-color: #E11D48;
+    color: #fff;
+}
+.team:hover > .relative > .und::before{
+    background-color: #fff;
+}
+.und{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.und::before{
+    content: '';
+    background-color: #E11D48;
+    width: 60px;
+    height: 2px;
+    margin-top: 20px;
+}

@@ -1,0 +1,34 @@
+.achievement{
+    background-image: url(../../images/counter-img.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+
+}
+
+.achievement::after{
+    content: '';
+    position: absolute;
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    opacity: .8;
+    z-index: -1;
+    
+}
+.ach-icon{
+    transition: all .7s ease;
+}
+.ach:hover .ach-icon{
+    background-color: #E11D48;
+}
+.ach:hover .ach-icon > .icon{
+    color: #fff;
+}
+.ach .ach-icon{
+    background-color: #fff;
+}
+
+

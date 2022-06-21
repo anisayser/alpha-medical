@@ -1,0 +1,7 @@
+.short-banner{
+    background-image: url(../../images/breadcrumb.jpg);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    width: 100% !important;
+}

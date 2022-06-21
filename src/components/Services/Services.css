@@ -1,0 +1,13 @@
+.service:hover > .heart-icon{
+    background-color: #E11D48;
+}
+.service:hover > .heart-icon .h-icon{
+    color: #fff;
+}
+.service{
+    border-bottom: 4px solid transparent;
+    transition: all .5s ease;
+}
+.service:hover{
+    border-bottom: 4px solid #E11D48;
+}
